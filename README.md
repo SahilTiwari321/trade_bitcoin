@@ -1,12 +1,12 @@
-# Bitcoin Trading Performance Analysis
+# Trader Behaviour Insights
 
-This project analyzes daily Bitcoin trading performance using a dataset of historical trades. It computes key metrics such as daily profit and loss (PnL), trade volume, fees, and average execution price.
+This project analyzes Trader trading performance using a dataset of historical trades. It computes key metrics such as daily profit and loss (PnL), trade volume, fees, and average execution price.
 
 ---
 
 ## File Structure
 
-- `TradeBitcoinMar.ipynb` — Main Jupyter notebook for data analysis.
+- `TraderInsights.ipynb` — Main Jupyter notebook for data analysis.
 - `README.md` — Project overview and instructions.
 
 ---
