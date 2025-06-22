@@ -1,17 +1,17 @@
-# 📊 Bitcoin Trading Performance Analysis
+# Bitcoin Trading Performance Analysis
 
 This project analyzes daily Bitcoin trading performance using a dataset of historical trades. It computes key metrics such as daily profit and loss (PnL), trade volume, fees, and average execution price.
 
 ---
 
-## 📁 File Structure
+## File Structure
 
 - `TradeBitcoinMar.ipynb` — Main Jupyter notebook for data analysis.
 - `README.md` — Project overview and instructions.
 
 ---
 
-## 🚀 Features
+## Features
 
 - Parses timestamp data to extract daily trading information.
 - Aggregates data to compute:
@@ -23,7 +23,7 @@ This project analyzes daily Bitcoin trading performance using a dataset of histo
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Python 3**
 - **Pandas**
